@@ -1,1 +1,1 @@
-# LDA
+This report aims to provide the procedure of analyzing Chicago Insurance redlining data with LDA algorithm. The first part will be discussing the methods checking the equal variance and normality assumption. The second part will be targeting at the implementation of LDA algorithm. Our results show that with the variables we choose, the LDA algorithm can generate reasonable classification outcomes.
